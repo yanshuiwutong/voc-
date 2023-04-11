@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>1647843503.6980925.jpeg</filename>
+  <object_num>1</object_num>
+  <size>
+    <width>86</width>
+    <height>316</height>
+  </size>
+  <object>
+    <name>smoking</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>3</ymin>
+      <xmax>59</xmax>
+      <ymax>107</ymax>
+    </bndbox>
+  </object>
+</annotation>

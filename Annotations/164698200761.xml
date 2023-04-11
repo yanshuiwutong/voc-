@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>164698200761.jpeg</filename>
+  <object_num>1</object_num>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+  </size>
+  <object>
+    <name>phone</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>927</xmin>
+      <ymin>338</ymin>
+      <xmax>1007</xmax>
+      <ymax>421</ymax>
+    </bndbox>
+  </object>
+</annotation>
